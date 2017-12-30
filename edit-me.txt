@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tussud ja nokud
+=======
+tussud ja nokud
+>>>>>>> 1dd77f2c8ed4402ba305edbd64374163b8664f60
